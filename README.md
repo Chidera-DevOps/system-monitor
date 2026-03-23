@@ -1,5 +1,6 @@
 =====What this does======
-A SCRIPT THAT Monitors
+
+A Script THAT Monitors
  
 -> CPU usage 
 -> Memory Usage 
